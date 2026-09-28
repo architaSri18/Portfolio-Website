@@ -1,10 +1,10 @@
 # Archita Srivastava – Portfolio Website
 
-Personal portfolio for **Archita Srivastava** — Full-Stack Developer (Node.js, TypeScript, React). A responsive single-page site with a clean indigo theme, light and dark modes, and a mobile-first layout. Built for [GitHub Pages](https://pages.github.com/).
+Personal portfolio for **Archita Srivastava** — Full-Stack Developer (Node.js, TypeScript, React). A responsive single-page site with a clean indigo theme, light and dark modes, and a mobile-first layout.
 
 ## Live site
 
-[https://architasri18.github.io/Portfolio-Website/](https://architasri18.github.io/Portfolio-Website/)
+https://portfoliowebsite-seven-red.vercel.app/
 
 ## Features
 
