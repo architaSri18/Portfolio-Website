@@ -1,4 +1,4 @@
-# 💻 Archita Srivastava – Personal Portfolio Website
+# 💻 Archita Srivastava – Portfolio Website
 
 This is my responsive portfolio website showcasing my background, skills, projects and experience as an aspiring full-stack developer. Built using HTML, CSS, and JavaScript, the design uses a clean indigo theme with light and dark modes and a mobile-first layout.
 
