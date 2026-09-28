@@ -12,10 +12,6 @@ This is my responsive portfolio website showcasing my background, skills, projec
 - Experience section and contact section with social links
 - Accessible: skip link, semantic HTML and visible keyboard focus
 
-## 📸 Preview
-
-![Portfolio Preview](assets/preview.png)
-
 ## 🌐 Live Preview
 
 [View My Portfolio](https://architasri18.github.io/Portfolio-Website/)
