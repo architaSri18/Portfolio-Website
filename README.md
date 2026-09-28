@@ -50,10 +50,5 @@ cd Portfolio-Website
 
 Open `index.html` in your browser. No install or build step is needed.
 
-## 📬 Contact
-
-- 📧 Email: as8905@srmist.edu.in
-- 💼 LinkedIn: [Archita Srivastava](https://www.linkedin.com/in/archita-srivastava-440507287)
-- 🐙 GitHub: [architaSri18](https://github.com/architaSri18)
 
 © 2026 Archita Srivastava
