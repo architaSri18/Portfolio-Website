@@ -81,20 +81,44 @@
     <section id="about" class="section" aria-labelledby="about-heading">
       <div class="container">
         <h2 id="about-heading" class="section__title">About</h2>
-        <div class="about-copy">
-          <p>
-            I'm a Computer Science and Engineering student at SRM IST, Delhi-NCR, graduating in 2027 with a CGPA of 9.8. I like taking a feature from database design through to a working user interface.
-          </p>
-          <p>
-            During my traineeship at APV Technologies I built a record management system with Node.js, PostgreSQL and Angular. Outside work I build projects with React, Next.js and Flask, and I hold two AWS Academy certifications.
-          </p>
+        <div class="about-layout">
+          <div class="about-layout__main">
+            <div class="about-copy">
+              <p>
+                I'm a Computer Science and Engineering student at SRM IST, Delhi-NCR, graduating in 2027 with a CGPA of 9.8. I like taking a feature from database design through to a working user interface.
+              </p>
+              <p>
+                During my traineeship at APV Technologies I built a record management system with Node.js, PostgreSQL and Angular. Outside work I build projects with React, Next.js and Flask, and I hold two AWS Academy certifications.
+              </p>
+            </div>
+            <h3 id="certifications-heading" class="subsection__title">Certifications and awards</h3>
+            <ul class="cert-list" aria-labelledby="certifications-heading">
+              <li>AWS Academy Cloud Architecting (Jun 2025) and Cloud Foundations (May 2025)</li>
+              <li>Graph Theory Programming Camp, AlgoUniversity (Apr 2026)</li>
+              <li>Merit Scholarship, SRMIST: 10 CGPA in second year</li>
+            </ul>
+          </div>
+          <div class="about-layout__aside">
+            <h3 id="education-heading" class="subsection__title">Education</h3>
+            <ol class="timeline" aria-labelledby="education-heading">
+              <li class="timeline__item">
+                <span class="timeline__marker" aria-hidden="true"></span>
+                <h4 class="timeline__heading">B.Tech CSE, SRM IST</h4>
+                <p class="timeline__meta">2023 to 2027 | CGPA 9.8/10</p>
+              </li>
+              <li class="timeline__item">
+                <span class="timeline__marker" aria-hidden="true"></span>
+                <h4 class="timeline__heading">Class XII (ISC), Lucknow Public College</h4>
+                <p class="timeline__meta">2023 | 81.8%</p>
+              </li>
+              <li class="timeline__item">
+                <span class="timeline__marker" aria-hidden="true"></span>
+                <h4 class="timeline__heading">Class X (ICSE), Lucknow Public College</h4>
+                <p class="timeline__meta">2021 | 92.5%</p>
+              </li>
+            </ol>
+          </div>
         </div>
-        <h3 id="certifications-heading" class="subsection__title">Certifications and awards</h3>
-        <ul class="cert-list" aria-labelledby="certifications-heading">
-          <li>AWS Academy Cloud Architecting (Jun 2025) and Cloud Foundations (May 2025)</li>
-          <li>Graph Theory Programming Camp, AlgoUniversity (Apr 2026)</li>
-          <li>Merit Scholarship, SRMIST: 10 CGPA in second year</li>
-        </ul>
       </div>
     </section>
 
@@ -227,7 +251,7 @@
           </li>
           <li>
             <span class="contact-list__label">Phone</span>
-            <a href="tel:+919415706041">9415706041</a>
+            <span class="contact-list__value">+91 XXXXXXXXXX</span>
           </li>
           <li>
             <span class="contact-list__label">LinkedIn</span>
